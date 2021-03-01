@@ -1,0 +1,14 @@
+.p-tabview .p-tabview-panels {
+  padding: 0rem !important;
+}
+
+.p-tabview .p-tabview-close {
+  font-size: 0.7rem;
+  margin-top: 0.3rem;
+}
+
+.p-tabview-options {
+  margin-left: 0.5rem;
+  font-size: 0.7rem;
+  margin-top: 0.3rem;
+}

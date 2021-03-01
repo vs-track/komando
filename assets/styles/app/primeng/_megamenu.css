@@ -1,0 +1,7 @@
+.p-megamenu {
+  border: 0px !important;
+}
+
+.p-megamenu .p-megamenu-panel {
+  z-index: 2;
+}

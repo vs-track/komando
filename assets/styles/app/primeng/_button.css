@@ -1,0 +1,19 @@
+.p-button.p-button-sm {
+  font-size: 0.575rem !important;
+  padding: 0.4375rem 0.575rem !important;
+}
+.p-button.p-button-sm .p-button-icon {
+  font-size: 0.575rem !important;
+}
+.p-button.p-button-lg {
+  font-size: 1.25rem;
+  padding: 0.625rem 1.25rem;
+}
+.p-button.p-button-lg .p-button-icon {
+  font-size: 1.25rem;
+}
+
+.p-button.p-button-icon-only {
+  width: auto !important;
+  padding: 0.5rem 0;
+}

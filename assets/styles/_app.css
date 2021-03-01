@@ -1,0 +1,13 @@
+@import "./app/login/_login.css";
+/* Personalizações PrimeNG */
+
+@import "./app/primeng/_megamenu.css";
+@import "./app/primeng/_menubar.css";
+@import "./app/primeng/_toolbar.css";
+/* @import "./app/primeng/_datatable_responsive.css"; */
+@import "./app/primeng/_tabview.css";
+@import "./app/primeng/_sidebar.css";
+@import "./app/primeng/_progress_spinner.css";
+@import "./app/primeng/_button.css";
+@import "./app/primeng/_badge.css";
+@import "./app/primeng/_table.css";
